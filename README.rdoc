@@ -1,5 +1,16 @@
 == README
 
+#Technology used: Ruby on Rails, MySQL
+This project managed private buses of a company by allowing the users to know the position of  the buses, time taken by it to reach the stop,taking the attendance of the employees attending the bus and informing about the absence or late arrivals to the employee waiting for their relievers  in the company.
+
+#Features:
+1. Notification on bus arrival
+2. Shows time taken by the bus to reach your location.
+3. Allows tracking of bus to the driver, passenger and company admin.
+4. Notifies late arrival to passengers and also to the relievers and company authorities.
+5. Allows passenger,driver and attendant sign up and customized dashboard to each passenger.
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
